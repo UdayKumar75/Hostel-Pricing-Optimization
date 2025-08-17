@@ -4,8 +4,7 @@ This project analyzes hostel pricing patterns for goSTOPS using booking data. Th
 
 📂 Project Structure
 .
-├── Assignment.ipynb # Jupyter Notebook with data cleaning, analysis & plots
-├── DA assignment data.csv # Dataset provided for the assignment
+├── Assignment.ipynb # Jupyter Notebook with data cleaning, analysis & plots  ├── DA assignment data.csv # Dataset provided for the assignment
 ├── Data Analytics Internship Assignment.pdf # Assignment instructions
 ├── Hostel_Pricing_Analysis.docx # Final report with insights, charts, and recommendations
 └── README.md # Project overview (this file)
