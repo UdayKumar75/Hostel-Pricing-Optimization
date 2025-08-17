@@ -9,6 +9,7 @@ This project analyzes hostel pricing patterns for goSTOPS using booking data. Th
 ├── Data Analytics Internship Assignment.pdf # Assignment instructions
 ├── Hostel_Pricing_Analysis.docx # Final report with insights, charts, and recommendations
 └── README.md # Project overview (this file)
+
 ⚙️ Tools & Libraries
 
 Python (pandas, numpy, matplotlib, seaborn)
