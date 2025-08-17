@@ -2,9 +2,45 @@
 
 This project analyzes hostel pricing patterns for goSTOPS using booking data. The goal is to uncover how factors like advance booking, weekdays vs weekends, seasonal trends, and location differences affect hostel prices, and to provide data-driven pricing recommendations.
 
-📂 Project Structure
+## 📂 Project Structure  
+
 .
-├── Assignment.ipynb # Jupyter Notebook with data cleaning, analysis & plots  ├── DA assignment data.csv # Dataset provided for the assignment
+├── Assignment.ipynb # Jupyter Notebook with data cleaning, analysis & plots
+├── DA assignment data.csv # Dataset provided for the assignment
+├── Data Analytics Internship Assignment.pdf # Assignment instructions
+├── Hostel_Pricing_Analysis.docx # Final report with insights, charts, and recommendations
+└── README.md # Project overview (this file)
+
+Copy
+Edit
+⚠️ Problem: When you paste the above, GitHub Markdown will still break it because of the nested backticks.
+
+👉 The working version is this (no nested fences, just one set of backticks):
+
+markdown
+Copy
+Edit
+## 📂 Project Structure  
+
+.
+├── Assignment.ipynb # Jupyter Notebook with data cleaning, analysis & plots
+├── DA assignment data.csv # Dataset provided for the assignment
+├── Data Analytics Internship Assignment.pdf # Assignment instructions
+├── Hostel_Pricing_Analysis.docx # Final report with insights, charts, and recommendations
+└── README.md # Project overview (this file)
+
+Copy
+Edit
+But to make it actually display as you want, use only this:
+
+markdown
+Copy
+Edit
+## 📂 Project Structure  
+
+.
+├── Assignment.ipynb # Jupyter Notebook with data cleaning, analysis & plots
+├── DA assignment data.csv # Dataset provided for the assignment
 ├── Data Analytics Internship Assignment.pdf # Assignment instructions
 ├── Hostel_Pricing_Analysis.docx # Final report with insights, charts, and recommendations
 └── README.md # Project overview (this file)
