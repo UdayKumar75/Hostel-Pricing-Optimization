@@ -3,7 +3,6 @@
 This project analyzes hostel pricing patterns for goSTOPS using booking data. The goal is to uncover how factors like advance booking, weekdays vs weekends, seasonal trends, and location differences affect hostel prices, and to provide data-driven pricing recommendations.
 
 📂 Project Structure
-.
 ├── Assignment.ipynb                # Jupyter Notebook with data cleaning, analysis & plots
 ├── DA assignment data.csv          # Dataset provided for the assignment
 ├── Data Analytics Internship Assignment.pdf  # Assignment instructions
